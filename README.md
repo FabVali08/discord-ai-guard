@@ -39,3 +39,13 @@
 git clone https://github.com/yourusername/aegis-discord.git
 cd aegis-discord
 pip install -r requirements.txt
+```
+
+### 2. Manage .env file
+
+- fill the missing variables -> chutes api key and discord token
+
+### 3. Run
+
+```bash
+python3 main.py
