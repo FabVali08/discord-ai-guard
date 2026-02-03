@@ -7,7 +7,7 @@
 
 > Drop-in Discord automod replacement that actually understands context. Detects toxicity, subtle hate speech, and spam in real-time using Qwen3Guard.
 
-[Why not just use Discord AutoMod?](#why-not-discord-automod) • [Installation](#installation) • [Commands](#commands)
+[Installation](#installation) • [Commands](#commands)
 
 ---
 **Latency:** ~800ms per message (including network roundtrip to Chutes.ai)
