@@ -36,7 +36,7 @@
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/aegis-discord.git
+git clone https://github.com/fabvali08/aegis-discord.git
 cd aegis-discord
 pip install -r requirements.txt
 ```
