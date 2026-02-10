@@ -36,7 +36,7 @@
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/fabvali/discord-ai-guard/
+git clone https://github.com/fabvali/discord-ai-guard.git
 cd discord-ai-guard
 pip install -r requirements.txt
 ```
