@@ -36,8 +36,8 @@
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/fabvali08/aegis-discord.git
-cd aegis-discord
+git clone https://github.com/fabvali/discord-ai-guard/
+cd discord-ai-guard
 pip install -r requirements.txt
 ```
 
